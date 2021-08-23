@@ -1,0 +1,12 @@
+{
+    "major" : "NSCI",
+    "required1" : ["NSCI 175", "PSYC 210", "PSYC 270", "NSCI 222", "NSCI 225"],
+    "required2" : ["BIOL 101", "BIOL 101L", "BIOL 202", "CHEM 101", "CHEM 101L, PSYC 101"],
+    "chooseFrom": 
+        {
+            
+            "1": [1, ["PHYS 104", "PHYS 114", "PHYS 116", "PHYS 118"]],
+            "2": [1, ["PHYS 105", "PHYS 115", "PHYS 117", "PHYS 119"]]
+        }
+
+ }
